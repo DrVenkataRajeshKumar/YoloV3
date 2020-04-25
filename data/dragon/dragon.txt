@@ -453,7 +453,6 @@
 ./data/dragon/images/454.jpg
 ./data/dragon/images/455.jpg
 ./data/dragon/images/456.jpg
-./data/dragon/images/457.jpg
 ./data/dragon/images/458.jpg
 ./data/dragon/images/459.jpg
 ./data/dragon/images/460.jpg
