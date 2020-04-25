@@ -108,7 +108,6 @@
 ./data/dragon/images/108.jpg
 ./data/dragon/images/109.jpg
 ./data/dragon/images/110.jpg
-./data/dragon/images/111.jpg
 ./data/dragon/images/112.jpg
 ./data/dragon/images/113.jpg
 ./data/dragon/images/114.jpg
